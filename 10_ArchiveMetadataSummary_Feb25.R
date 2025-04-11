@@ -9,9 +9,9 @@ library(tsibbledata)
 library(fable)
 library(lubridate)
 
-# Load metadata of scanned documents 2025-01-22
+# Load metadata of scanned documents 2025-02-16
 gs4_deauth()
-metadata <- read_sheet("https://docs.google.com/spreadsheets/d/1iEA_Hr0Yr0rdHP60w-TaBnn6wocpLQ-xT8xggTlHd2Q/edit?gid=0#gid=0",
+metadata <- read_sheet("https://docs.google.com/spreadsheets/d/1iEA_Hr0Yr0rdHP60w-TaBnn6wocpLQ-xT8xggTlHd2Q/edit?gid=0",
                        range = "CDdata", 
                        col_types = "ccDDccccccccccccc") 
 glimpse(metadata)
