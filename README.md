@@ -3,7 +3,7 @@
 
 This repository maps MELICA's progress in the creation of a thematic digital archive focused on the civil defense from the Civil Defense Commission's materials present in the Aarhus City Archive. This repository processes the digital archive metadata in order to gauge numbers and types of documents scanned and digitized in order to prioritize post-processing according to the project's themes.
 
-* Smart text and spatial analysis of the two archives :smile:
+* Temporal analysis of the content of the newly built digital archive :smile:
 
 ---
 
